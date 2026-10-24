@@ -1,1 +1,3 @@
-![Demonstração do projeto](./assets/soda-gif.gif)
+<p align="center"> 
+  <img width="460" height="300" src="src/assets/soda-gif.gif">
+</p>
